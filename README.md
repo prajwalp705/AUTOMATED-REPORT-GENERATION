@@ -17,7 +17,7 @@ The Automated Report Generation task aims to simplify and streamline the process
 The core of this task involves writing a Python script that reads data from a file (such as a CSV or Excel file), analyzes it to extract meaningful insights, and then creates a PDF report using libraries like FPDF or ReportLab. These libraries allow us to format the report with headings, paragraphs, tables, and even images like graphs and charts.
 
 How It Works:
-The project can be broken down into three main stages:
+The task can be broken down into three main stages:
 
 Data Input:
 The process begins by sourcing data from a file. This file can be anything—sales figures, student grades, financial statements, or attendance logs. The script reads this file and prepares it for analysis.
