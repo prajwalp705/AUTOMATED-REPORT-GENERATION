@@ -19,13 +19,13 @@ The core of this task involves writing a Python script that reads data from a fi
 How It Works:
 The task can be broken down into three main stages:
 
-Data Input:
+1. Data Input:
 The process begins by sourcing data from a file. This file can be anything—sales figures, student grades, financial statements, or attendance logs. The script reads this file and prepares it for analysis.
 
-Data Analysis:
+2. Data Analysis:
 In the next step, the data is cleaned, filtered, and analyzed to generate summaries or statistics. Depending on the dataset, this may include calculating totals, averages, trends over time, or identifying top performers. The purpose here is to extract relevant and insightful information from the raw data.
 
-Report Creation:
+3. Report Creation:
 After analysis, the results are organized into a PDF report. The script uses a library like FPDF or ReportLab to design and generate the report. This report typically includes a title, summary paragraphs, and detailed tables or charts. Visual elements like bar graphs or pie charts can also be embedded to improve clarity and visual appeal. The final report is saved as a PDF file that can be printed or shared.
 
 Where It Is Used:
