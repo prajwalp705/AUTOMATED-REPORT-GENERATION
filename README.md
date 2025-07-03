@@ -69,3 +69,6 @@ VS Code or Jupyter Notebook as the development environment.
 
 Conclusion:
 Automated report generation is a smart and scalable solution for creating data reports in any domain. It enhances productivity by eliminating repetitive tasks, ensures accuracy, and produces professional-quality output. Whether you're working in business, education, healthcare, or any data-intensive field, automating your reports can transform how you present and share information. This project not only teaches you how to work with real-world data but also prepares you to build practical tools that solve everyday problems efficiently.
+
+output:
+![Image](https://github.com/user-attachments/assets/5886a797-96a5-4612-bb1b-516de35a0f61)
